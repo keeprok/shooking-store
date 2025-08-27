@@ -5,7 +5,7 @@ export default function ProductCard() {
       <div className="w-full h-[120px] bg-gray-100" />
 
       {/* 본문 */}
-      <div className="w-full h-[127px] flex items-center justify-center p-3">
+      <div className="w-full h-[127px] flex items-center justify-center p-3  border-[#F2F2F2]">
         <div className="w-full flex flex-col justify-between gap-2">
           <div className="text-sm font-semibold">브랜드a</div>
           <div className="text-xs text-gray-500 leading-snug">편안하고 착용감이 좋은 신발</div>
